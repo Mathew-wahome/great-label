@@ -11,7 +11,7 @@ interface HomeProps {
 }
 
 const carouselImages = [
-    'https://storage.googleapis.com/prompt-gallery/user-provided/sneaker_tree.jpg',
+    'https://github.com/Mathew-wahome/great-label/blob/main/g2.png',
     'https://storage.googleapis.com/prompt-gallery/user-provided/man_with_bags.jpg',
     'https://storage.googleapis.com/prompt-gallery/user-provided/shoes_and_bags.jpg',
     'https://storage.googleapis.com/prompt-gallery/user-provided/man_posing.jpg',
